@@ -1,0 +1,14 @@
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.csproj.AssemblyReference.cache
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.AssemblyInfoInputs.cache
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.AssemblyInfo.cs
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.csproj.CoreCompileInputs.cache
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.exe
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.deps.json
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.runtimeconfig.json
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.runtimeconfig.dev.json
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.dll
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\bin\Debug\netcoreapp3.1\ProyectoConsola2.pdb
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.dll
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.pdb
+C:\Users\ef96864\source\repos\ProyectoConsola2\ProyectoConsola2\obj\Debug\netcoreapp3.1\ProyectoConsola2.genruntimeconfig.cache
